@@ -10,3 +10,6 @@
 [submodule "convert_http_to_https_service"]
 	path = convert_http_to_https_service
 	url = https://github.com/alipitafi39/convert_http_to_https_using_spring_boot.git
+[submodule "retry_pattern_service"]
+	path = retry_pattern_service
+	url = https://github.com/alipitafi39/retry_pattern_using_spring_boot.git

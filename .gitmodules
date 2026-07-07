@@ -4,3 +4,6 @@
 [submodule "throtling_service"]
 	path = throtling_service
 	url = https://github.com/alipitafi39/throtling_with_token_bucket_algorithm_bucket4j_using_spring_boot.git
+[submodule "ratelimiting_service"]
+	path = ratelimiting_service
+	url = https://github.com/alipitafi39/rate_limiting_with_token_bucket_algorithm_bucket4j_using_spring_boot.git

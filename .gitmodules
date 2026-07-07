@@ -7,3 +7,6 @@
 [submodule "ratelimiting_service"]
 	path = ratelimiting_service
 	url = https://github.com/alipitafi39/rate_limiting_with_token_bucket_algorithm_bucket4j_using_spring_boot.git
+[submodule "convert_http_to_https_service"]
+	path = convert_http_to_https_service
+	url = https://github.com/alipitafi39/convert_http_to_https_using_spring_boot.git

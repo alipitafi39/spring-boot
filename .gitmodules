@@ -1,3 +1,6 @@
 [submodule "account_service"]
 	path = account_service
 	url = https://github.com/alipitafi39/account_service.git
+[submodule "throtling_service"]
+	path = throtling_service
+	url = https://github.com/alipitafi39/throtling_with_token_bucket_algorithm_bucket4j_using_spring_boot.git

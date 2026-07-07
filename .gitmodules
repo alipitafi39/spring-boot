@@ -13,3 +13,6 @@
 [submodule "retry_pattern_service"]
 	path = retry_pattern_service
 	url = https://github.com/alipitafi39/retry_pattern_using_spring_boot.git
+[submodule "scheduler_and_cron_job_service"]
+	path = scheduler_and_cron_job_service
+	url = https://github.com/alipitafi39/scheduler_and_cron_job_spring_boot.git

@@ -16,3 +16,6 @@
 [submodule "scheduler_and_cron_job_service"]
 	path = scheduler_and_cron_job_service
 	url = https://github.com/alipitafi39/scheduler_and_cron_job_spring_boot.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/alipitafi39/notification_service.git

@@ -1,0 +1,4 @@
+com\order_service\service\OrderService.class
+com\order_service\controller\OrderController.class
+com\order_service\model\OrderRequest.class
+com\order_service\OrderServiceApplication.class
